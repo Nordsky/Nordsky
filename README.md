@@ -1,9 +1,9 @@
 ![](./Nordsky_back_pic.png)
-[![](https://img.shields.io/badge/community-8cf?style=for-the-badge&logo=vk)](https://vk.com/woodenowlproj)
 [![](https://img.shields.io/badge/Discord-8cf?style=for-the-badge&logo=discord)](https://discord.gg/Y8BR7T6heG)
+[![](https://img.shields.io/badge/community-8cf?style=for-the-badge&logo=vk)](https://vk.com/woodenowlproj)
 [![](https://img.shields.io/badge/Uncharted_lands-8cf?style=for-the-badge&logo=github)](https://github.com/woodenowl/uncharted_lands)
 [![](https://img.shields.io/badge/Telegram-8cf?style=for-the-badge&logo=telegram)](https://t.me/snowfox_x)
-
+<!-- 
 ## Skills
 
   ![](https://img.shields.io/badge/back-grey?style=flat-square)
@@ -33,4 +33,4 @@
   ![](https://img.shields.io/badge/Blender-9cf?style=flat-square&logo=blender&logoColor=black)
   ![](https://img.shields.io/badge/Godot-9cf?style=flat-square&logo=godot-engine&logoColor=black)
   ![](https://img.shields.io/badge/Flutter-9cf?style=flat-square&logo=Flutter&logoColor=black)
-  ![](https://img.shields.io/badge/Jira-9cf?style=flat-square&logo=Jira&logoColor=black)
+  ![](https://img.shields.io/badge/Jira-9cf?style=flat-square&logo=Jira&logoColor=black) -->
