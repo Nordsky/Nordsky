@@ -1,9 +1,10 @@
 ![](./Nordsky_back_pic.png)
-[![](https://img.shields.io/badge/YouTube-8cf?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzpcDUE33SxWP4ydSTx8hJA/featured)
+<!-- [![](https://img.shields.io/badge/YouTube-8cf?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzpcDUE33SxWP4ydSTx8hJA/featured)
 [![](https://img.shields.io/badge/MEOWCODE-8cf?style=for-the-badge&logo=github)](https://github.com/Nordsky/MEOWCODE)
 [![](https://img.shields.io/badge/Discord-8cf?style=for-the-badge&logo=discord)](https://discord.gg/Y8BR7T6heG)
 [![](https://img.shields.io/badge/community-8cf?style=for-the-badge&logo=vk)](https://vk.com/meowcodeproj)
-[![](https://img.shields.io/badge/Telegram-8cf?style=for-the-badge&logo=telegram)](https://t.me/snowfox_x)
+[![](https://img.shields.io/badge/Telegram-8cf?style=for-the-badge&logo=telegram)](https://t.me/snowfox_x) -->
+
 <!-- [![](https://img.shields.io/badge/Uncharted_lands-8cf?style=for-the-badge&logo=github)](https://github.com/woodenowl/uncharted_lands) -->
 
 <!-- 
