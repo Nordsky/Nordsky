@@ -1,40 +1,55 @@
-![](./Nordsky_back_pic.png)
-<!-- [![](https://img.shields.io/badge/YouTube-8cf?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCzpcDUE33SxWP4ydSTx8hJA/featured)
-[![](https://img.shields.io/badge/MEOWCODE-8cf?style=for-the-badge&logo=github)](https://github.com/Nordsky/MEOWCODE)
-[![](https://img.shields.io/badge/Discord-8cf?style=for-the-badge&logo=discord)](https://discord.gg/Y8BR7T6heG)
-[![](https://img.shields.io/badge/community-8cf?style=for-the-badge&logo=vk)](https://vk.com/meowcodeproj)
-[![](https://img.shields.io/badge/Telegram-8cf?style=for-the-badge&logo=telegram)](https://t.me/snowfox_x) -->
+#  Ilya Basisty
+I like to study new technologies and program pet projects. In my free time I like to sleep, play video games and read books.
 
-<!-- [![](https://img.shields.io/badge/Uncharted_lands-8cf?style=for-the-badge&logo=github)](https://github.com/woodenowl/uncharted_lands) -->
+<img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy-downsized.gif" width="200"/>
 
-<!-- 
-## Skills
+<a href="https://ilyabasisty.github.io/">
+  <img src="https://img.shields.io/badge/my website-8cf?style=for-the-badge&color=grey" alt="My website"/>
+</a>
+<a href="https://www.youtube.com/channel/UCzpcDUE33SxWP4ydSTx8hJA">
+  <img src="https://img.shields.io/badge/YouTube-8cf?style=for-the-badge&color=red" alt="YouTube"/>
+</a>
+<a href="https://t.me/ilyabasisty">
+  <img src="https://img.shields.io/badge/Telegram-8cf?style=for-the-badge" alt="Telegram"/>
+</a>
 
-  ![](https://img.shields.io/badge/back-grey?style=flat-square)
-  ![](https://img.shields.io/badge/Python-9cf?style=flat-square&logo=Python&logoColor=black)
-  ![](https://img.shields.io/badge/Redis-9cf?style=flat-square&logo=Redis&logoColor=black)
-  ![](https://img.shields.io/badge/Celery-9cf?style=flat-square&logo=Celery&logoColor=black)
-  ![](https://img.shields.io/badge/Django-9cf?style=flat-square&logo=Django&logoColor=black)
-  ![](https://img.shields.io/badge/PostgreSQL-9cf?style=flat-square&logo=postgresql&logoColor=black)
-  ![](https://img.shields.io/badge/Postman-9cf?style=flat-square&logo=postman&logoColor=black)
-  ![](https://img.shields.io/badge/C-9cf?style=flat-square&logo=c&logoColor=black)
-  ![](https://img.shields.io/badge/C++-9cf?style=flat-square&logo=cplusplus&logoColor=black)
-  ![](https://img.shields.io/badge/OpenGL-9cf?style=flat-square&logo=OpenGL&logoColor=black)
 
-  ![](https://img.shields.io/badge/front-grey?style=flat-square)
-  ![](https://img.shields.io/badge/javascript-9cf?style=flat-square&logo=JavaScript&logoColor=black)
-  ![](https://img.shields.io/badge/html-9cf?style=flat-square&logo=html5&logoColor=black)
-  ![](https://img.shields.io/badge/css-9cf?style=flat-square&logo=css3&logoColor=black)
-  ![](https://img.shields.io/badge/Vue-9cf?style=flat-square&logo=Vue-dot-js&logoColor=black)
-  ![](https://img.shields.io/badge/Vuetify-9cf?style=flat-square&logo=Vuetify&logoColor=black)
-  ![](https://img.shields.io/badge/Gimp-9cf?style=flat-square&logo=gimp&logoColor=black)
-  ![](https://img.shields.io/badge/Aseprite-9cf?style=flat-square&logo=Aseprite&logoColor=black)
+### ⚒️ Languages and tools:
 
-  ![](https://img.shields.io/badge/other-grey?style=flat-square)
-  ![](https://img.shields.io/badge/Docker-9cf?style=flat-square&logo=Docker&logoColor=black)
-  ![](https://img.shields.io/badge/Linux-9cf?style=flat-square&logo=Linux&logoColor=black)
-  ![](https://img.shields.io/badge/github-9cf?style=flat-square&logo=github&logoColor=black)
-  ![](https://img.shields.io/badge/Blender-9cf?style=flat-square&logo=blender&logoColor=black)
-  ![](https://img.shields.io/badge/Godot-9cf?style=flat-square&logo=godot-engine&logoColor=black)
-  ![](https://img.shields.io/badge/Flutter-9cf?style=flat-square&logo=Flutter&logoColor=black)
-  ![](https://img.shields.io/badge/Jira-9cf?style=flat-square&logo=Jira&logoColor=black) -->
+<div>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  </a>
+
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+  </a>
+
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/>
+  </a>
+ </div>
+
+### 📖 Now studying:
+
+<a href="https://nodejs.org/">NodeJs</a> - to create your own gaming web platform.
+
+<a href="https://bevyengine.org/">Bevy</a> - to create simple games in the Rust language.
+
+### ☕ Other:
+If you want, you can subscribe to my <a href="https://www.youtube.com/channel/UCzpcDUE33SxWP4ydSTx8hJA">YouTube channel</a>, where I sometimes post development videos. You can also visit <a href="https://ilyabasisty.github.io/">my website</a> and read my blog. Sometimes I sit and play games on <a href="https://steamcommunity.com/id/ilyabasisty/">Steam</a>.
+
+**Have a nice and productive day to everyone!**
+  
