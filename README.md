@@ -18,7 +18,7 @@
 
 <div>
   <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
   </a>
 <!--   <a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="50"/>
@@ -26,29 +26,24 @@
 
 
   <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
   </a>
 
   <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
   </a>
   <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30"/>
   </a>
   <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="30"/>
   </a>
   
    <a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/>
   </a>
  </div>
 
-### 📖 Now studying:
-
-- <a href="https://nodejs.org/">NodeJs</a> - to create your own gaming web platform.
-
-- <a href="https://bevyengine.org/">Bevy</a> - to create simple games in the Rust language.
 
 ### ☕ Other:
 If you want, you can subscribe to my <a href="https://www.youtube.com/channel/UCzpcDUE33SxWP4ydSTx8hJA">YouTube channel</a>, where I sometimes post development videos. You can also visit <a href="https://ilyabasisty.github.io/">my website</a> and read my blog. Sometimes I sit and play games on <a href="https://steamcommunity.com/id/ilyabasisty/">Steam</a>.
