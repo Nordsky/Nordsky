@@ -2,9 +2,9 @@
 
 <!-- <img src="https://media.giphy.com/media/OfLvE8AOsPUSA/giphy.gif" width="200"/> -->
 
-<a href="https://ilyabasisty.github.io/">
+<!-- <a href="https://ilyabasisty.github.io/">
   <img src="https://img.shields.io/badge/my website-8cf?style=for-the-badge&color=grey" alt="My website"/>
-</a>
+</a> -->
 <a href="https://t.me/ilyabasisty">
   <img src="https://img.shields.io/badge/Telegram-8cf?style=for-the-badge" alt="Telegram"/>
 </a>
