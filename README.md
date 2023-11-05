@@ -9,10 +9,5 @@
 
 Frontend developer. In my free time, I study the Rust language, sleep, play <a href="https://steamcommunity.com/id/ilyabasisty/">video games</a> and read books.
 
-  
-<ul>
-  <li>Telegram: https://t.me/ilyabasisty</li>
-  <li>Mail: <a href="mailto:ilcode@yandex.ru">ilcode@yandex.ru</a></li>
-</ul>
 
 **Have a nice and productive day to everyone!**
